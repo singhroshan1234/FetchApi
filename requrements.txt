@@ -1,0 +1,7 @@
+install these these in pycharm terminal first
+pip install requests scikit-learn streamlit
+
+run the code by typing 
+streamlit run app.py in the terminal 
+
+it will create a local host server webpage.
