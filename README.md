@@ -1,4 +1,4 @@
-# FetchApi
+# Fetch data from Api
 
 Introduction
 This project fetches data from a given API, processes it to identify sources for each response, and returns the citations. A  streamlit  UI is provided to display the results.
